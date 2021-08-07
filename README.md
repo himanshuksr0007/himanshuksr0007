@@ -1,24 +1,41 @@
-## Hello there 👋
+### Hi there, I'm Himanshu 👋
 
-Welcome to my page! I’m @himanshuksr0007, a code-addicted student from <img src="https://as1.ftcdn.net/jpg/02/73/96/30/500_F_273963063_vHBHr5nKKN71203eHg9SENxUQPcIZEvK.jpg" width="13"/> **Goa, India**. 
+![Github](https://img.shields.io/github/followers/himanshuksr0007?label=follow%20me%20on%20github&logoColor=black&style=social)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCpBi5ObjnN6elGctERQpRRg?label=subscribe%20me&style=social)](https://www.youtube.com/channel/UCpBi5ObjnN6elGctERQpRRg)
 
-I’m looking to collaborate on my discord bot [red devil]
+## I'm a Programmer, Developer!!
 
-I also play **tennis** <img src="https://img.icons8.com/color/24/000000/tennis.png" /> to make my day ;)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other on a discord bot
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I also play **tennis** <img src="https://img.icons8.com/color/24/000000/tennis.png" /> to make my day ;)
 
-*Oh and I sometimes write things on my **[blog](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**! 📝*
+### Connect with me:
 
-### Projects & Bots✨
+<img align="left" alt="Himanshu | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/187/187189.png" />
+<img align="left" alt="Himanshu | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/185/185983.png" />
+<img align="left" alt="Himanshu | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/185/185985.png" />
+<br />
 
-20% of my projects are open source ❤ | I will Public my projects after a non disclosed milestone
-I'm the maintainer of more than 150 projects,
 
-### Skills & Tools 🖱️
+### Languages and Tools:
 
-When I need to build things, I usually go for !Html<img src="https://image.flaticon.com/icons/png/512/888/888859.png" width="13"/>**Html&css** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs.
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/512/617/617456.png" />
+<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-I love discovering languages or frameworks that increase my productivity for my new projects such as  **Red Devil**, **Mr Manager** so feel free to send me a message with your recommendations on Discord, Instagram or Facebook ! 😁
+<br />
+<br />
 
-### Contact me 🤝
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-I'm available on **[Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**, **[Instagram](https://www.instagram.com/himanshunotfound/)** and **[Facebook](www.facebook.com/himanshuksr07)**.
+  <img align="center" alt="himanshuksr0007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=himanshuksr0007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+</details>
