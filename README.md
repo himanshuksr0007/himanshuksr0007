@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other on a discord bot
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I also play **tennis** <img src="https://img.icons8.com/color/24/000000/tennis.png" /> to make my day ;)
+
 
 ### Connect with me:
 
