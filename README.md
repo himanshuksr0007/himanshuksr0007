@@ -14,14 +14,10 @@
  ## Tech Stack 💻
 
  | Areas | Language | Proficiency |
-
  |----------| -------------|-------|
-
  | **JavaScript** | Developing | Frontend, Web Development |
-
- | **Python** |Developing | Data Science, AI/ML, Scripting 
-
- | **C** | Education | System Programming|
+ | **Python** | Developing | Data Science, AI/ML, Scripting |
+ | **C** | Education | System Programming |
 
  ---
 
